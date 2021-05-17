@@ -1,4 +1,4 @@
-# Hackintosh-opencore
+# Hackintosh opencore ASROCK Z390 PRO 4
 ##### Opencore 0.6.9 
 #### Mac os big sur 11.3.1
 #### usb mapping (if you need just usb mapping copy kexts->USBPorts.kext and ACPI->SSDT-UIAC.aml) usb c not mapped !!
